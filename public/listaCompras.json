@@ -1,0 +1,14 @@
+{
+    "itens": [
+        {
+            "descricao": "leite",
+            "quantidade": 12,
+            "comprado": true
+        },
+        {
+            "descricao": "ovo",
+            "quantidade": 6,
+            "comprado": false
+        }
+    ]
+}
