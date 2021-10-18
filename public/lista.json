@@ -1,0 +1,10 @@
+{
+    "items": [{
+        "quantidade": 1,
+        "descricao": "leite"
+    },
+    {
+        "quantidade": 1,
+        "descricao": "ovo"
+    }]
+}
